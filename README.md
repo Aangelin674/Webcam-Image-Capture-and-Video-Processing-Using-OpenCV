@@ -123,7 +123,7 @@ for i in range(50):
     time.sleep(0.05)
 
 cap.release()
-```
+````
 <img width="452" height="487" alt="image" src="https://github.com/user-attachments/assets/8553c783-2ec9-4068-998e-15685fb1a90d" />
 
 
